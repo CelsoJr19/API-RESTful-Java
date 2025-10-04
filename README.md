@@ -26,7 +26,7 @@ Etapas:
 Sites:
 -  https://start.spring.io/
 -  https://www.postman.com/postman/postman-public-workspace/request/create?requestId=75671019-fe5e-4f74-9696-fbde6756f272
-  (http://localhost:8080/api/users)
+  Add a barra de escrita: http://localhost:8080/api/users
 
 Dependencias:
 1 - Spring Boot DevTools
