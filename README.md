@@ -38,5 +38,6 @@ Erros:
 404 = Erro de conexão
 200 = OK
 
-Obs: Baixar o Postman-Agent
+Obs: Baixar o Postman-Agent para uso do postman web
+
 
