@@ -27,6 +27,12 @@ Sites:
 -  https://start.spring.io/
 -  https://www.postman.com/postman/postman-public-workspace/request/create?requestId=75671019-fe5e-4f74-9696-fbde6756f272
   Add a barra de escrita: http://localhost:8080/api/users
+  Teste: Body -> raw -> {
+                          "name": "Seu Nome",
+                          "email": "seuemail@seuprovedor.com",
+                          "phone": "(se) utele-fone",
+                          "cpf": "seu.cpf.aqu-i"
+                        } 
 
 Dependencias:
 1 - Spring Boot DevTools
@@ -40,5 +46,4 @@ Erros:
 200 = OK
 
 Obs: Baixar o Postman-Agent para uso do postman web
-
 
